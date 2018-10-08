@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-rails
+- name: Niels_Rails_CF
   memory: 512M
   instances: 1
   random-route: true
